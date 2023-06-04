@@ -6,6 +6,8 @@ A front-end developer who's totally proficient in all things Web3. Or, well, at 
 
 Well, I'm a pro at getting divs to align perfectly, but when it comes to Web3, I'm still in the "confused" phase. Progress, right? React is my jam! I can build beautiful Web Applications that will make you go, "Wow!" But don't ask me about Web3 integration just yet. We'll get there, eventually. Maybe.
 
+<img src = "https://github-readme-stats.vercel.app/api?username=addi1402&theme=vue&show_icons=true&size=100" width = 400>
+
 #### Currently Exploring
 
 I'm currently on a mission to understand Web3 and everything it entails. Smart contracts, Blockchain, DApps... the whole shebang! Join me on this wild ride, where we'll both pretend to know what we're doing!
