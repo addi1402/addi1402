@@ -2,7 +2,7 @@
 
 #### About Me
 
-A front-end developer who's totally proficient in all things Web3. Or, well, at least I pretend to be. I spend most of my time googling Web3 terms and pretending to know what I'm talking about.
+A Front-End developer who's totally proficient in all things Web3. Or, well, at least I pretend to be. I spend most of my time googling Web3 terms and pretending to know what I'm talking about.
 
 Well, I'm a pro at getting divs to align perfectly, but when it comes to Web3, I'm still in the "confused" phase. Progress, right? React is my jam! I can build beautiful Web Applications that will make you go, "Wow!" But don't ask me about Web3 integration just yet. We'll get there, eventually. Maybe.
 
